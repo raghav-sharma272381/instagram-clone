@@ -2,6 +2,10 @@
 
 This is the clone I made of instagram using react native, redux and firebase. It has all the CRED functionality in it, all the data is being fetched in real time from firebase servers. This was a personal project for understanding firebase and redux and data flow in react so I did not focus that much on UI, Here are some of the screenshots from the app. 
 
+# App in working 
+
+https://youtu.be/6rlsyN6_03A
+
 # 1. Login auth (with firebase) - 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-18 at 11 48 01](https://user-images.githubusercontent.com/72136954/156597274-53e08019-27da-4a20-8ad7-0df3a788f766.png)
 
@@ -24,6 +28,4 @@ This is the clone I made of instagram using react native, redux and firebase. It
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-18 at 13 21 27](https://user-images.githubusercontent.com/72136954/156598391-4a9a08a4-672f-400c-a9e9-69ddb1cdb67a.png)
 
 
-# App in working 
 
-https://youtu.be/6rlsyN6_03A

@@ -7,8 +7,8 @@ This is the clone I made of instagram using react native, redux and firebase. It
 https://youtu.be/6rlsyN6_03A
 
 # 1. Login auth (with firebase) - 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-18 at 11 48 01](https://user-images.githubusercontent.com/72136954/156597274-53e08019-27da-4a20-8ad7-0df3a788f766.png)
-<img src="https://user-images.githubusercontent.com/72136954/156597274-53e08019-27da-4a20-8ad7-0df3a788f766.png" width="128"/>
+
+<img src="https://user-images.githubusercontent.com/72136954/156597274-53e08019-27da-4a20-8ad7-0df3a788f766.png" width="256"/>
 
 # 2. User profile page 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-18 at 13 17 17](https://user-images.githubusercontent.com/72136954/156597354-4928a4e8-01eb-465b-902d-1e6a0be0845f.png)

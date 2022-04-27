@@ -29,7 +29,7 @@ https://youtu.be/6rlsyN6_03A
 <img src="https://user-images.githubusercontent.com/72136954/156598012-8be51671-b536-4464-b397-f33dad1a0663.png" width="256"/>
 
 
-# 6. Pictures posted by them apper in your feed after you follow them
+# 6. Pictures posted by them appear in your feed after you follow them
 
 
 <img src="https://user-images.githubusercontent.com/72136954/156598174-4d96a3f1-b8c9-47da-aa68-5b07d9494425.png" width="256"/>
